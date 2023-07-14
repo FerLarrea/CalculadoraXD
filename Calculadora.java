@@ -7,7 +7,7 @@ public class Calculadora extends JFrame{
      JLabel display;
 
     public void init(){
-      setTitle("Calculadora");
+      setTitle("Calculadora1");
       setSize(800,800);
       setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
       createButtom1();
